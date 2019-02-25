@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday [My City]"
-  description = "R conference in [My City]"
+  name = "satRday Chicago"
+  description = "One-day R conference in Chicago, IL on April 27, 2019"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -77,8 +77,8 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "satRday [My City]"
-    subtitle = "A conference for users of the R Language on [Conference Date]"
+    title = "satRday Chicago"
+    subtitle = "A conference for users of the R Language on April 27, 2019"
     bg = true
     buttonText = "Tell me more"
 
