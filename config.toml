@@ -199,19 +199,22 @@ googleAnalytics = "UA-135356916-1"
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "1.jpg"
+      img = "tickets.jpg"
+      # Photo Credit: <a href="https://www.flickr.com/photos/43526506@N02/4339439025/">Vanessa Lynn.</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
       date = "March 1, 2019"
       title = "Tickets and Talk Proposals Open"
       description = "Tickets for the first satRdays Chicago open, along with the call for proposals."
 
     [[params.about.events]]
-      img = "2.jpg"
+      img = "submission.jpg"
+      # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
       date = "March 23, 2019"
       title = "Proposal Submission Deadline"
       description = "Submissions for regular and lightning talks close today at midnight."
 
     [[params.about.events]]
-      img = "3.jpg"
+      img = "mic.jpg"
+      # Photo Credit: <a href="https://www.flickr.com/photos/62735724@N02/32755687435/">Ke7dbx</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a>
       date = "April 1, 2019"
       title = "Speakers Notified"
       description = "Those who submitted a proposal will be notified if their talk has been accepted."
