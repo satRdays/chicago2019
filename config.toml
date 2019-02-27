@@ -78,7 +78,7 @@ googleAnalytics = "UA-135356916-1"
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Chicago"
-    subtitle = "A conference for users of the R Language on April 27, 2019"
+    subtitle = "A conference for useRs in the Chicagoland area on April 27, 2019!"
     bg = true
     buttonText = "Tell me more"
 
@@ -201,26 +201,26 @@ googleAnalytics = "UA-135356916-1"
     [[params.about.events]]
       img = "1.jpg"
       date = "March 1, 2019"
-      title = "Tickets and Call for Proposals Open"
-      description = "Tickets for the first satRdays Chicago open, along with the call for proposals"
+      title = "Tickets and Talk Proposals Open"
+      description = "Tickets for the first satRdays Chicago open, along with the call for proposals."
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "March 23, 2019 @ midnight"
+      date = "March 23, 2019"
       title = "Proposal Submission Deadline"
-      description = "Submissions for regular and lightning talks close today"
+      description = "Submissions for regular and lightning talks close today at midnight."
 
     [[params.about.events]]
       img = "3.jpg"
       date = "April 1, 2019"
       title = "Speakers Notified"
-      description = "Those who submitted a proposal will be notified if their talk has been accepted"
+      description = "Those who submitted a proposal will be notified if their talk has been accepted."
 
     [[params.about.events]]
       img = "satrday-logo.png"
       date = "April 27, 2019"
       title = "satRdays Chicago!"
-      description = "We look forward to seeing you at Chicago's first satRdays conference"
+      description = "We look forward to seeing you at Chicago's first satRdays conference!"
   
   # Location section
   [params.location]
@@ -247,16 +247,15 @@ googleAnalytics = "UA-135356916-1"
     [[params.team.members]]
       img = "angela-li.jpg"
       name = "Angela Li"
-      position = "Organizer"
+      position = "Center for Spatial Data Science"
       # reportsTo = ""
       # livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-       "R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu/)",
-       "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)"
+      # scope = [
+      # ""
       #  "Role 3 for [thing 3](#)"
-      ]
+      # ]
       # For bio markdown and even multiline strings are available.
-      # bio = ""
+      bio = "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)"
       social = [
         ["fa-twitter", "https://twitter.com/CivicAngela"],
         ["fa-github", "https://github.com/angela-li"],
@@ -266,12 +265,8 @@ googleAnalytics = "UA-135356916-1"
     [[params.team.members]]
       img = "justin-shea.jpg"
       name = "Justin Shea"
-      position = "Organizer"
-      scope = [
-      "Visiting Assistant Professor of Finance, Roosevelt University",
-      "Lead organizer of the [Chicago R User Group (CRUG)](https://www.meetup.com/Chicago-R-User-Group/)"
-      #  "Role 3 for [thing 3](#)"
-      ]
+      position = "Roosevelt University"
+      bio = "Lead organizer of the [Chicago R User Group (CRUG)](https://www.meetup.com/Chicago-R-User-Group/)"
       social = [
         ["fa-twitter", "https://twitter.com/justinmshea"],
         ["fa-github", "https://github.com/JustinMShea"],
