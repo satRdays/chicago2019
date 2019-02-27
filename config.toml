@@ -1,11 +1,11 @@
 # Site settings
 baseurl = "https://satrdays-event-template.netlify.com/"
 languageCode = "en-us"
-title = "satRday"
+title = "satRday Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-135356916-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -46,7 +46,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "satRday"
+    brand = "satRday Chicago"
     # Optional logo as brand stored in img/
     logo = "logo.png"
     services = "About"
@@ -100,7 +100,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Practical applications and workshop sessions"
+      description = "Practical applications and talks"
       url = "#"
 
     [[params.services.row.list]]
@@ -111,8 +111,8 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-users"
-      title = "Community Lead"
-      description = "Community organised, community focussed"
+      title = "Community Led"
+      description = "Community organized and community focused"
       url = "#"
 
     [[params.services.row.list]]
@@ -124,7 +124,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-universal-access"
       title = "Accessible"
-      description = "Inclusive, supportive and respectful environment"
+      description = "An inclusive, supportive and respectful environment"
       url = "#"
 
   # Register section
@@ -190,7 +190,7 @@ googleAnalytics = ""
 
   # Important Dates [About] section
   [params.about]
-    enable = true
+    enable = false
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
@@ -245,44 +245,34 @@ googleAnalytics = ""
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 1"
-      position = "Organiser Position 1"
-      reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      img = "angela-li.jpg"
+      name = "Angela Li"
+      position = "R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu/)"
+      # reportsTo = ""
+      # livesIn = "[Munich, Germany](#some-maps-url)"
+      # scope = [
+      #  "Role 1 for [thing 1](#)",
+      #  "Role 2 for [thing 2](#)",
+      #  "Role 3 for [thing 3](#)"
+      # ]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+      bio = "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/CivicAngela"],
+        ["fa-github", "https://github.com/angela-li"],
+        ["fa-linkedin", "https://www.linkedin.com/in/angelali921/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
+      img = "justin-shea.jpg"
+      name = "Justin Shea"
+      position = "Visiting Assistant Professor of Finance, Roosevelt University"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/justinmshea"],
+        ["fa-github", "https://github.com/JustinMShea"],
+        ["fa-linkedin", "https://www.linkedin.com/in/justinmshea/"]
       ]
-
-    [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
+      bio = "Lead organizer of the [Chicago R User Group (CRUG)](https://www.meetup.com/Chicago-R-User-Group/)"
 
   # Client section
   [params.clients_list]
@@ -297,19 +287,7 @@ googleAnalytics = ""
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "envato.jpg"
-      link = "#"
-
-    [[params.clients]]
-      logo = "designmodo.jpg"
-      link = "#"
-
-    [[params.clients]]
-      logo = "themeforest.jpg"
-      link = "#"
-
-    [[params.clients]]
-      logo = "creative-market.jpg"
+      logo = "roosevelt.png"
       link = "#"
   
   [params.diversity]
@@ -319,7 +297,7 @@ googleAnalytics = ""
 
   # Contact section
   [params.contact]
-    enable = true
+    enable = false
     title = "Contact us"
     subtitle  = "Lorem ipsum dolor sit amet consectetur."
     buttonText = "Send message"

@@ -1,10 +1,10 @@
-img = "faceholder.png"
-name = "Speaker Name 01"
-organisation = "Company 1"
-role = "Role 1"
+img = "david-smith.jpg"
+name = "David Smith"
+organisation = "Microsoft"
+# role = "Cloud Developer Advocate"
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-twitter", "https://twitter.com/revodavid"],
+        ["fa-github", "https://github.com/revodavid"],
+        ["fa-linkedin", "https://www.linkedin.com/in/dmsmith/"],
+        ["fa-globe", "http://blog.revolutionanalytics.com"]
       ]

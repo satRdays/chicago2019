@@ -1,7 +1,9 @@
-img = "faceholder.png"
-name = "Speaker Name 02"
-organisation = "Company 2"
-role = "Role 1"
+img = "emily-riederer.jpg"
+name = "Emily Riederer"
+organisation = "Capital One"
+# role = "Business Analytics Manager"
 social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "https://twitter.com/EmilyRiederer"],
+        ["fa-github", "https://github.com/EmilyRiederer"],
+        ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"]
       ]
