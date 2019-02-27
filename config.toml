@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://satrdays-event-template.netlify.com/"
+baseurl = "https://chicago2019.satrdays.org/"
 languageCode = "en-us"
 title = "satRday Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -17,7 +17,7 @@ googleAnalytics = "UA-135356916-1"
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday Chicago"
+  name = "satRday Chicago 2019"
   description = "One-day R conference in Chicago, IL on April 27, 2019"
   # email = "your@email.com"
 
@@ -118,7 +118,7 @@ googleAnalytics = "UA-135356916-1"
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only [£30]"
+      description = "Cheap and accessible to all"
       url = "#"
 
     [[params.services.row.list]]
@@ -288,7 +288,7 @@ googleAnalytics = "UA-135356916-1"
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
       logo = "roosevelt.png"
-      link = "#"
+      link = "https://www.roosevelt.edu/"
   
   [params.diversity]
     enable = true
