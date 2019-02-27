@@ -190,9 +190,9 @@ googleAnalytics = "UA-135356916-1"
 
   # Important Dates [About] section
   [params.about]
-    enable = false
+    enable = true
     title = "Important Dates"
-    subtitle = "Be prepared!"
+    subtitle = "Some dates of note"
     endpoint = "Conference"
 
     # The events will be listed from the top to the bottom.
@@ -200,32 +200,32 @@ googleAnalytics = "UA-135356916-1"
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
-      title = "Initial Announcement"
-      description = "We're organising a conference!"
+      date = "March 1, 2019"
+      title = "Tickets and Call for Proposals Open"
+      description = "Tickets for the first satRdays Chicago open, along with the call for proposals"
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount"
+      date = "March 23, 2019 @ midnight"
+      title = "Proposal Submission Deadline"
+      description = "Submissions for regular and lightning talks close today"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
-      title = "Call For Papers"
-      description = "Submissions for speakers are now open!"
+      date = "April 1, 2019"
+      title = "Speakers Notified"
+      description = "Those who submitted a proposal will be notified if their talk has been accepted"
 
     [[params.about.events]]
-      img = "4.jpg"
-      date = "Fourth Date"
-      title = "Call For Papers Ends"
-      description = "Cut off date for speaker submissions"
+      img = "satrday-logo.png"
+      date = "April 27, 2019"
+      title = "satRdays Chicago!"
+      description = "We look forward to seeing you at Chicago's first satRdays conference"
   
   # Location section
   [params.location]
     enable = true
-    title = "Location title"
+    title = "Venue at Roosevelt University"
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.767769741297!2d-87.62731094891188!3d41.87634267912038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca21507764f%3A0x44cc0732016145b4!2sRoosevelt+University!5e0!3m2!1sen!2sus!4v1551124747007"
 
