@@ -247,16 +247,16 @@ googleAnalytics = "UA-135356916-1"
     [[params.team.members]]
       img = "angela-li.jpg"
       name = "Angela Li"
-      position = "R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu/)"
+      position = "Organizer"
       # reportsTo = ""
       # livesIn = "[Munich, Germany](#some-maps-url)"
-      # scope = [
-      #  "Role 1 for [thing 1](#)",
-      #  "Role 2 for [thing 2](#)",
+      scope = [
+       "R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu/)",
+       "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)",
       #  "Role 3 for [thing 3](#)"
       # ]
       # For bio markdown and even multiline strings are available.
-      bio = "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)"
+      # bio = ""
       social = [
         ["fa-twitter", "https://twitter.com/CivicAngela"],
         ["fa-github", "https://github.com/angela-li"],
@@ -266,17 +266,21 @@ googleAnalytics = "UA-135356916-1"
     [[params.team.members]]
       img = "justin-shea.jpg"
       name = "Justin Shea"
-      position = "Visiting Assistant Professor of Finance, Roosevelt University"
+      position = "Organizer"
+      scope = [
+      "Visiting Assistant Professor of Finance, Roosevelt University",
+      "Lead organizer of the [Chicago R User Group (CRUG)](https://www.meetup.com/Chicago-R-User-Group/)",
+      #  "Role 3 for [thing 3](#)"
+      # ]
       social = [
         ["fa-twitter", "https://twitter.com/justinmshea"],
         ["fa-github", "https://github.com/JustinMShea"],
         ["fa-linkedin", "https://www.linkedin.com/in/justinmshea/"]
       ]
-      bio = "Lead organizer of the [Chicago R User Group (CRUG)](https://www.meetup.com/Chicago-R-User-Group/)"
 
   # Client section
   [params.clients_list]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
