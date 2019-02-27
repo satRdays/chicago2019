@@ -18,31 +18,10 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 * Important Dates
 * Links to satRdays Code of Conduct and Diversity materials
 
-### Admin setup
+### Check website builds
 
-#### Set the repo as a mirror the main repository
+To check deploys: https://app.netlify.com/sites/chicago2019/deploys
 
-1. Open Git Bash.
-
-2. Create a bare clone of the repository.
-
-  ```
-  git clone --bare https://github.com/satRdays/satRday_site_template
-  ```
-
-3. Mirror-push to the new repository.
-
-```
-cd satRday_site_template.git
-git push --mirror https://github.com/satRdays/[cityYEAR].git
-```
-
-4. Remove the temporary local repository you created in step 1.
-
-```
-cd ..
-rm -rf satRdays/satRday_site_template.git
-```
 
 ### Organiser setup
 #### Customise the config
