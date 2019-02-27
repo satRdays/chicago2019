@@ -87,7 +87,7 @@ googleAnalytics = "UA-135356916-1"
   [params.services]
     enable = true
     title = "About"
-    subtitle = "Conference Details"
+    subtitle = "Why attend satRdays Chicago?"
 
     [[params.services.row]]
 
@@ -192,7 +192,7 @@ googleAnalytics = "UA-135356916-1"
   [params.about]
     enable = true
     title = "Important Dates"
-    subtitle = "Some dates of note"
+    subtitle = "What's happening when?"
     endpoint = "Conference"
 
     # The events will be listed from the top to the bottom.
@@ -209,8 +209,8 @@ googleAnalytics = "UA-135356916-1"
       img = "submission.jpg"
       # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
       date = "March 23, 2019"
-      title = "Proposal Submission Deadline"
-      description = "Submissions for regular and lightning talks close today at midnight."
+      title = "Proposal Submission Deadline @ Midnight"
+      description = "Submissions for regular and lightning talks close today."
 
     [[params.about.events]]
       img = "mic.jpg"
@@ -238,7 +238,7 @@ googleAnalytics = "UA-135356916-1"
     # Possibility to center items
     #center = true
     title = "Team"
-    subtitle = "The people putting it together"
+    subtitle = "Who are your organizers?"
     bg = false
     description = ""
     speakers = "Speakers"
@@ -280,7 +280,7 @@ googleAnalytics = "UA-135356916-1"
   [params.clients_list]
     enable = true
     # Possibility to center items
-    #center = true
+    center = true
     # Optional client title specifying the involvement
     title = "Sponsors"
     bg = true
