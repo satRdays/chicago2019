@@ -98,9 +98,9 @@ googleAnalytics = "UA-135356916-1"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Hands on"
-      description = "Practical applications and talks"
+      icon = "fa-connectdevelop"
+      title = "Network"
+      description = "Meet fellow local useRs"
       url = "#"
 
     [[params.services.row.list]]
