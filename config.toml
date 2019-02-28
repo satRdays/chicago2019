@@ -99,7 +99,7 @@ googleAnalytics = "UA-135356916-1"
 
     [[params.services.row.list]]
       icon = "fa-connectdevelop"
-      title = "Network"
+      title = "Networking"
       description = "Meet fellow local useRs"
       url = "#"
 
