@@ -163,7 +163,7 @@ googleAnalytics = "UA-135356916-1"
     bg = false
     CfSpage = "/satrday-chicago-2019"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "Mar 1 - Mar 23 2019"
+    dates = "Mar 1 - *Mar 24 2019* (extended one day!)"
 
   # Talk [Portfolio] section
   [params.portfolio]
