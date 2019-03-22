@@ -215,9 +215,9 @@ googleAnalytics = "UA-135356916-1"
     [[params.about.events]]
       img = "submission.jpg"
       # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
-      date = "March 23, 2019"
-      title = "Proposal Submission Deadline @ Midnight"
-      description = "Submissions for regular and lightning talks close today."
+      date = "March 24, 2019"
+      title = "NEW Proposal Submission Deadline @ Midnight - extended a day!"
+      description = "Submissions for regular and lightning talks close midnight Sunday. This deadline has been extended to encourage submissions!"
 
     [[params.about.events]]
       img = "mic.jpg"
