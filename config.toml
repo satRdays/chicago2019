@@ -20,6 +20,7 @@ googleAnalytics = "UA-135356916-1"
   name = "satRday Chicago 2019"
   description = "One-day R conference in Chicago, IL on April 27, 2019"
   # email = "your@email.com"
+  description_photo = "img/satrday-logo.png"
 
   # Link custom assets relative to /static
   custom_css = ["css/satrday.css"]
