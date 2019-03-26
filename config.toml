@@ -207,18 +207,18 @@ googleAnalytics = "UA-135356916-1"
       description = "Call for proposals for the first satRdays Chicago open."
 
     [[params.about.events]]
-      img = "tickets.jpg"
-      # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
-      date = "March 23, 2019"
-      title = "Tickets Open"
-      description = "Tickets for the first satRdays Chicago open."
-
-    [[params.about.events]]
       img = "submission.jpg"
       # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
       date = "March 24, 2019"
       title = "NEW Proposal Submission Deadline @ Midnight - extended a day!"
       description = "Submissions for regular and lightning talks close midnight Sunday. This deadline has been extended to encourage submissions!"
+
+    [[params.about.events]]
+      img = "tickets.jpg"
+      # Photo Credit: <a href="https://www.flickr.com/photos/55455788@N00/16985621338/">Lee Bennett</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+      date = "March 26, 2019"
+      title = "Tickets Open"
+      description = "Tickets for the first satRdays Chicago open."
 
     [[params.about.events]]
       img = "mic.jpg"
