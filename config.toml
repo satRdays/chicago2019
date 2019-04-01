@@ -223,9 +223,9 @@ googleAnalytics = "UA-135356916-1"
     [[params.about.events]]
       img = "mic.jpg"
       # Photo Credit: <a href="https://www.flickr.com/photos/62735724@N02/32755687435/">Ke7dbx</a> Flickr via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a>
-      date = "April 1, 2019"
+      date = "April 8, 2019"
       title = "Speakers Notified"
-      description = "Those who submitted a proposal will be notified if their talk has been accepted."
+      description = "Those who submitted a proposal will be notified if their talk has been accepted. We received many quality submissions this year."
 
     [[params.about.events]]
       img = "satrday-logo.png"
