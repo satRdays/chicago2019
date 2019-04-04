@@ -1,9 +1,9 @@
-img = "emily-riederer.jpg"
-name = "Emily Riederer"
-organisation = "Capital One"
-# role = "Business Analytics Manager"
+img = "jd-long.jpg"
+name = "JD Long"
+organisation = "RenaissanceRe"
+# role = "VP - Risk Management"
 social = [
-        ["fa-twitter", "https://twitter.com/EmilyRiederer"],
-        ["fa-github", "https://github.com/EmilyRiederer"],
-        ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"]
+        ["fa-twitter", "https://twitter.com/CMastication"],
+        ["fa-github", "https://github.com/CerebralMastication"],
+        ["fa-linkedin", "https://www.linkedin.com/in/jamesdlong/"],
       ]

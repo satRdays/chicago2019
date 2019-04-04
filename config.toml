@@ -284,6 +284,17 @@ googleAnalytics = "UA-135356916-1"
         ["fa-linkedin", "https://www.linkedin.com/in/justinmshea/"]
       ]
 
+    [[params.team.members]]
+      img = "emily-riederer.jpg"
+      name = "Emily Riederer"
+      position = "Capital One"
+      bio = "Co-organizer of the Chicago R Unconference"
+      social = [
+        ["fa-twitter", "https://twitter.com/EmilyRiederer"],
+        ["fa-github", "https://github.com/EmilyRiederer"],
+        ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"]
+      ]
+
   # Client section
   [params.clients_list]
     enable = true

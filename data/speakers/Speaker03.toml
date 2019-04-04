@@ -1,9 +1,0 @@
-img = "jd-long.jpg"
-name = "JD Long"
-organisation = "RenaissanceRe"
-# role = "VP - Risk Management"
-social = [
-        ["fa-twitter", "https://twitter.com/CMastication"],
-        ["fa-github", "https://github.com/CerebralMastication"],
-        ["fa-linkedin", "https://www.linkedin.com/in/jamesdlong/"],
-      ]

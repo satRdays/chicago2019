@@ -1,10 +1,10 @@
-img = "david-smith.jpg"
-name = "David Smith"
-organisation = "Microsoft"
-# role = "Cloud Developer Advocate"
+img = "stephanie-kirmer.jpg"
+name = "Stephanie Kirmer"
+organisation = "Uptake"
+# role = "Senior Data Scientist"
 social = [
-        ["fa-twitter", "https://twitter.com/revodavid"],
+        ["fa-twitter", "https://twitter.com/data_stephanie"],
         ["fa-github", "https://github.com/revodavid"],
-        ["fa-linkedin", "https://www.linkedin.com/in/dmsmith/"],
-        ["fa-globe", "http://blog.revolutionanalytics.com"]
+        ["fa-linkedin", "https://github.com/skirmer"],
+        ["fa-globe", "http://www.stephaniekirmer.com/"]
       ]
