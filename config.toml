@@ -288,7 +288,7 @@ googleAnalytics = "UA-135356916-1"
       img = "emily-riederer.jpg"
       name = "Emily Riederer"
       position = "Capital One"
-      bio = "Co-organizer of the Chicago R Unconference"
+      bio = "Co-organizer of the [Chicago R Unconference](https://chirunconf.github.io/)"
       social = [
         ["fa-twitter", "https://twitter.com/EmilyRiederer"],
         ["fa-github", "https://github.com/EmilyRiederer"],
