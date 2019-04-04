@@ -4,7 +4,7 @@ organisation = "Uptake"
 # role = "Senior Data Scientist"
 social = [
         ["fa-twitter", "https://twitter.com/data_stephanie"],
-        ["fa-github", "https://github.com/revodavid"],
+        ["fa-github", "https://github.com/skirmer"],
         ["fa-linkedin", "https://github.com/skirmer"],
         ["fa-globe", "http://www.stephaniekirmer.com/"]
       ]
