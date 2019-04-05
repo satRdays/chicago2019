@@ -307,13 +307,14 @@ googleAnalytics = "UA-135356916-1"
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
-    [[params.clients]]
-      logo = "roosevelt.png"
-      link = "https://www.roosevelt.edu/"
       
     [[params.clients]]
       logo = "rconsortium.png"
       link = "https://www.r-consortium.org/"
+    
+    [[params.clients]]
+      logo = "roosevelt.png"
+      link = "https://www.roosevelt.edu/"
       
     [[params.clients]]
       logo = "microsoft.png"
