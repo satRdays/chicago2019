@@ -314,6 +314,10 @@ googleAnalytics = "UA-135356916-1"
     [[params.clients]]
       logo = "rconsortium.png"
       link = "https://www.r-consortium.org/"
+      
+    [[params.clients]]
+      logo = "microsoft.png"
+      link = "https://blogs.microsoft.com/chicago/"
   
   [params.diversity]
     enable = true
