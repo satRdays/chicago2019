@@ -311,6 +311,10 @@ googleAnalytics = "UA-135356916-1"
     [[params.clients]]
       logo = "rconsortium.png"
       link = "https://www.r-consortium.org/"
+      
+    [[params.clients]]
+      logo = "rstudio.png"
+      link = "https://www.rstudio.com"
     
     [[params.clients]]
       logo = "roosevelt.png"
