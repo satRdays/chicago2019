@@ -321,6 +321,10 @@ googleAnalytics = "UA-135356916-1"
       link = "https://www.roosevelt.edu/"
       
     [[params.clients]]
+      logo = "capital-one.png"
+      link = "https://www.capitalone.com/"
+      
+    [[params.clients]]
       logo = "microsoft.png"
       link = "https://blogs.microsoft.com/chicago/"
   
