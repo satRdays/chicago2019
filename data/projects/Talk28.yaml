@@ -1,0 +1,13 @@
+modalID: 28
+title: Raymond Buhr
+subtitle: Data Scientist at Braintree, a PayPal Service
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Raymond_Buhr.jpg
+client: Data Scientist at Braintree, a PayPal Service
+clientLink: https://raybuhr.github.io
+category: Speaker
+description: Ray Buhr is a Data Scientist working in the #fintech industry in Chicago. He believes in the power of exploratory data analysis, cross-functional collaboration, and striving towards automated operational decisions. Ray is currently employed at Braintree, a digital payments solution, with prior engagements at Pangea Money Transfer and Raise Marketplace. While working in these roles he has helped build data lakes, data warehouses, and machine learning models, scale self-service analytics, and lead progress towards data-driven business strategies. Ray holds Bachelors in Economics from Occidental College and a Masters in Information and Data Science from the University of California - Berkeley.
+talk: true

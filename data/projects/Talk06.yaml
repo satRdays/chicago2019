@@ -1,0 +1,13 @@
+modalID: 06
+title: Annie Wang
+subtitle: R-Ladies Chicago
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Annie_Wang.jpg
+client: R-Ladies Chicago
+clientLink: https://www.linkedin.com/in/annie-wang-uc/
+category: Speaker
+description: I'm a life insurance actuary and an enthusiastic user of R for many, many years. I graduated from the University of Chicago with a BA in Economics and have been working at Lincoln Benefit Life ever since. My latest interests include machine learning and data science, finding ways to apply R to actuarial science, and engaging with the R community.
+talk: true

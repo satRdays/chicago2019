@@ -1,13 +1,13 @@
-modalID: 2
-title: "Second Talk"
-subtitle: "Second Subtitle"
+modalID: 02
+title: Adam Austin
+subtitle: Freewheeling Data Scientist at Allstate
 date: 1970-01-01
-startsAt: 00:01
-endsAt: 00:02
+startsAt: 00:00
+endsAt: 00:01
 img: roundicons.png
-preview: faceholder.png
-client: Speaker Two
-clientLink: "#"
-category: Category 2
-description: "Describe 2"
+preview: Adam_Austin.jpg
+client: Freewheeling Data Scientist at Allstate
+clientLink: https://twitter.com/just_add_data
+category: Speaker
+description: Adam bounced around biology, economics, and biostatistics before finally falling in love with R thanks to his education at UC Davis.  He now works in insurance, which is what he tells people at parties to get them to go away.  He spends his days writing R, avoiding Python, and disparaging SAS.  He spends his weekends wrangling his three foster children.
 talk: true

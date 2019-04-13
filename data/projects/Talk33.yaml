@@ -1,0 +1,13 @@
+modalID: 33
+title: Will Bonnell
+subtitle: NORC at the University of Chicago
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Will_Bonnell.jpg
+client: NORC at the University of Chicago
+clientLink: https://twitter.com/_willdebras
+category: Speaker
+description: My name is Will Bonnell and I recently graduated from the University of Virginia. I work as a research assistant at the NORC at UChicago and mostly use R for the analysis and visualization of survey data, but have recently spent a lot of time learning about and employing in my work functional R programming.
+talk: true

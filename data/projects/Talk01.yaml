@@ -1,13 +1,13 @@
-modalID: 1
-title: "First Talk"
-subtitle: "First Subtitle"
+modalID: 01
+title: Adam Lyon
+subtitle: Senior Scientist at Fermilab
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: faceholder.png
-client: Speaker One
-clientLink: "#"
-category: Category 1
-description: "Describe 1"
+preview: Adam_Lyon.jpg
+client: Senior Scientist at Fermilab
+clientLink: http://www.linkedin.com/in/adamllyon
+category: Speaker
+description: Adam is a senior scientist and associate division head of the Scientific Computing Division at the Fermi National Accelerator Laboratory (Fermilab). He has been involved in scientific computing for his entire career. Adam is working on the Muon g-2 experiment, which searches for new physics by measuring the dipole moment of the muon to unprecedented precision. He has interests in High Performance and High Throughput computing as well as Quantum computing.
 talk: true

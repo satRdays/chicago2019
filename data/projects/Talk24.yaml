@@ -1,0 +1,13 @@
+modalID: 24
+title: Parfait Gasana
+subtitle: Data Analyst, Winston & Strawn
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Parfait_Gasana.jpg
+client: Data Analyst, Winston & Strawn
+clientLink: https://www.linkedin.com/in/parfait-gasana-700b8012/
+category: Speaker
+description: Parfait Gasana is currently a Chicago Data Analyst at Winston & Strawn, LLP supporting litigation attorneys in antitrust matters with economic modeling and data analysis. He is also a co-organizer of the Chicago R User Group. Previously, he worked as an independent developer specializing in database development and analysis for many small to medium sized firms. With an MS in Economics Parfait is experienced in complex empirical analyses. He also holds multiple badges and high reputation on StackOverflow with a skillset encompassing general-purpose languages (Python, R, PHP, Java); special-purpose languages (SQL, XSLT); statistical packages (SAS, Stata); and relational databases (SQL Server, MySQL, PostgreSQL).
+talk: true

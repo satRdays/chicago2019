@@ -1,0 +1,13 @@
+modalID: 16
+title: Jane Berkowitz
+subtitle: Sr Business Analyst, Capital One
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Jane_Berkowitz.jpg
+client: Sr Business Analyst, Capital One
+clientLink: NA
+category: Speaker
+description: I've been at Capital One since 2017, where I use R in much of my day-to-day analysis. Last year,  I built a package to help others at the company build out credit monitoring in R.
+talk: true

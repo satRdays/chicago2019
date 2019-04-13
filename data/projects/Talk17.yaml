@@ -1,0 +1,13 @@
+modalID: 17
+title: Jay Qi
+subtitle: Data Science Technical Lead at Uptake
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Jay_Qi.jpg
+client: Data Science Technical Lead at Uptake
+clientLink: https://twitter.com/jayyqi
+category: Speaker
+description: Jay Qi is a data science lead at Uptake, an industrial data science software company in Chicago. Jay leads a team of data scientists developing machine learning models to predict heavy equipment failures, covering the construction, agriculture, and mining industries. Jay is an active open source contributor and has (co-)authored different R packages from useful (pkgnet) to fun (spongebob).
+talk: true

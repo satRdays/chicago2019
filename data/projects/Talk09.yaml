@@ -1,0 +1,15 @@
+modalID: 09
+title: Brian Burns
+subtitle: Senior Data Scientist - Uptake
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Brian_Burns.jpg
+client: Senior Data Scientist - Uptake
+clientLink: https://www.linkedin.com/in/brianburns09/
+category: Speaker
+description: Brian is an experienced senior data scientist working in predictive analytics and machine learning in Chicago, IL. His current work focuses on predictive maintenance in the wind energy industry.  His experience extends to open source software development, management of an analytics department, optimization modeling in the transportation industry, business and industrial process improvements, and project management.
+
+One of his passions is R package development.  He is the creator of pkgnet, an R library designed for the analysis of R libraries!
+talk: true

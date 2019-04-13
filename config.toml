@@ -168,13 +168,13 @@ googleAnalytics = "UA-135356916-1"
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable = false
+    enable = true
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Talks"
-    subtitle = "Who's saying what"
+    subtitle = "Our speakers for SatRday Chicago 2019"
     bg = true
 
     [params.portfolio.modal]
