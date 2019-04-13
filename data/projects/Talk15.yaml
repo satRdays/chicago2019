@@ -9,7 +9,5 @@ preview: James_Lamb.jpg
 client: Staff Data Scientist - Uptake
 clientLink: https://twitter.com/_jameslamb
 category: Speaker
-description: James Lamb is a staff data scientist at Uptake. In that role, he is a lead data science voice in the infrastructure decisions made by engineering teams working on Uptake's core platform. He also leads the Uptake data science team's open source program.
-
-He holds a Master's in Applied Economics from Marquette University and a Masters of Information in Data Science from University of California, Berkeley. He is a vocal advocate of open source software and has made contributions (of varying sizes) to dozens of open source projects. He is a co-author/maintainer on two R packages, "uptasticsearch" and "pkgnet" (both on CRAN). He is also a core member of the LightGBM development team.
+description: James Lamb is a staff data scientist at Uptake. In that role, he is a lead data science voice in the infrastructure decisions made by engineering teams working on Uptake's core platform. He also leads the Uptake data science team's open source program. He holds a Master's in Applied Economics from Marquette University and a Masters of Information in Data Science from University of California, Berkeley. He is a vocal advocate of open source software and has made contributions (of varying sizes) to dozens of open source projects. He is a co-author/maintainer on two R packages, "uptasticsearch" and "pkgnet" (both on CRAN). He is also a core member of the LightGBM development team.
 talk: true
