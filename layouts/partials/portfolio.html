@@ -1,0 +1,152 @@
+{{ "<!-- Portfolio Grid Section -->" | safeHTML }}
+<section id="portfolio" {{ if .Site.Params.portfolio.bg }}
+class="bg-light-gray"
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.portfolio.title }}{{ . | markdownify }}{{ end }}</h2>
+        <h3 class="section-subheading text-muted">{{ with .Site.Params.portfolio.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+      </div>
+    </div>
+    <div class="Talks">
+      {{ range .Site.Data.projects}}
+      {{ if eq .talk true }}
+      <a href="#portfolioModal{{ .modalID }}" class="Talk" data-toggle="modal">
+        <img src="img/portfolio/{{ .preview }}" class="Talk-image" alt="">
+        <div class="Talk-title">
+          <h4>{{ .title | markdownify }}</h4>
+          <p class="text-muted">{{ .client | markdownify }}</p>
+        </div>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Schedule</h2>
+          <h4>Schedule is subject to change. 
+          </h4>
+            <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th scope="col">Time</th>
+                <th scope="col"></th>
+                <th scope="col">Time</th>
+                <th scope="col"></th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <th scope="row">08:00 - 09:00</th>
+                <td colspan="3"> <b> Check-in/Breakfast </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">09:00 - 09:15</th>
+                <td> <b> Opening Remarks </b> <br> <i> SatRday Chicago Organizers</i> </td>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <th scope="row">09:10 - 09:45</th>
+                <td> <b> Keynote </b> <br> <i> Stephanie Kirmer</i> </td>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <th scope="row">9:45 - 10:00</th>
+                <td colspan="3"> <b> Coffee Break </b> </td>
+              </tr>
+              
+              <tr>
+                <th scope="row">10:00 - 11:00</th>
+                <td colspan="3"> <b> Session 1 </b> </td>
+              </tr>
+              <tr>
+                <th scope="row">10:00 - 11:00</th>
+                <td> <br> <b> Academic and Civic Applications <br> Bioinformatics in R </b> <br> <i> Chase Clark </i> 
+                <br> <b>Applying Empirical Bayesian Techniques to Illinois Traffic Stop Data </b> <br> <i> Bryan Berend </i> 
+                <br> <b> Spatial point pattern analysis of retail businesses </b> <br> <i> Irene Farah </i> <br> </td>
+                <th rowspan="2"> <br> <br> 10:00 - 11:00</th>
+                <td> <br> <b> Industry Applications <br> Correcting bias in customer acquistions models </b> <br> <i> Peter Cooman </i> 
+                <br> <b>Building an Analytics Culture at Allstate </b> <br> <i> Adam Austin </i> 
+                <br> <b> Lightning talk: MoRtality: Using R for Life Insurance </b> <br> <i> Annie Wang </i> <br> 
+                <br> <b> Lightning talk: Missing Map Values </b> <br> <i> Brett Kobold </i> <br></td>
+              </tr>
+
+              <tr>
+                <th scope="row">11:00 - 11:15</th>
+                <td colspan="3"> <b> Coffee Break </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">11:15 - 12:15</th>
+                <td colspan="3"> <b> Session 2 </b> </td>
+              </tr>
+              <tr>
+                <th scope="row">11:15 - 12:15</th>
+                <td> <br> <b> Reproducibility & Workflow Enhancement <br> Recursive Package Dependencies </b> <br> <i> Brian Burns </i> 
+                <br> <b>No more “works for me”: Using Docker </b> <br> <i> Patrick Miller </i> 
+                <br> <b> Lighting Talk: Making C++ Run Better </b> <br> <i> Adam Lyon </i> <br> 
+                <br> <b> Lighting Talk: No APIs? No Problem </b> <br> <i> Josh Goldberg </i> <br> </td>
+                <th rowspan="2"> <br> <br> 11:15 - 12:15</th>
+                <td> <br> <b> Building Data Tools (Lightning Talk Round!) <br> Shiny apps for the non-R users </b> <br> <i> David Thomas </i> 
+                <br> <b>Client-facing Shiny Apps </b> <br> <i> Sherry Shenker </i> 
+                <br> <b> Turning R projects into packages </b> <br> <i> Jane Berkowitz </i> <br> 
+                <br> <b> Developing an R package for EDA </b> <br> <i> Anh Tran </i> <br>
+                <br> <b> People shape software </b> <br> <i> James Lamb </i> <br> 
+                <br> <b> How to hire an R Package </b> <br> <i> Emily Riederer </i> <br> 
+                <br> <b> Level Up Your Package’s Docs </b> <br> <i> Jay Qi </i> <br> </td>
+              </tr>
+              
+              <tr>
+                <th scope="row">12:15 - 1:15</th>
+                <td colspan="3"> <b> Lunch </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">01:15 - 01:45</th>
+                <td> <b> Keynote </b> <br> <i> JD Long</i> </td>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <th scope="row">1:45 - 2:00</th>
+                <td colspan="3"> <b> Coffee Break </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">2:00 - 3:30</th>
+                <td colspan="3"> <b> Session 3 </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">3:30 - 3:45</th>
+                <td colspan="3"> <b> Coffee Break </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">3:45 - 4:45</th>
+                <td colspan="3"> <b> Session 4 </b> </td>
+              </tr>
+
+              <tr>
+                <th scope="row">04:45 - 05:00</th>
+                <td> <b> Closing Remarks </b> <br> <i> SatRday Chicago Organizers</i> </td>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <th scope="row">05:00 - 08:00</th>
+                <td colspan="3"> <b> On-site Happy Hour </b> </td>
+              </tr>
+
+            </tbody>
+          </table>
+
+
+        </div>
+      </div>
+  </div>
