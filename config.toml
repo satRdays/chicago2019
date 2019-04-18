@@ -323,6 +323,14 @@ googleAnalytics = "UA-135356916-1"
     [[params.clients]]
       logo = "microsoft.png"
       link = "https://blogs.microsoft.com/chicago/"
+      
+    [[params.clients]]
+      logo = "uptake.png"
+      link = "https://www.uptake.com"
+
+    [[params.clients]]
+      logo = "satrday-la.png"
+      link = "https://losangeles2019.satrdays.org"
   
   [params.diversity]
     enable = true
