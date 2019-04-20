@@ -5,9 +5,11 @@ date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: satrday-logo.png
+preview: Raedy_Ping.jpg
 client: Postdoc, SESP, Northwestern University
 clientLink: http://www.raedyping.com
 category: Speaker
 description: I am a research psychologist who uses gesture, action, and language to improve spatial thinking and scientific reasoning in people from preschool through college.
+abstractTitle: How Can We Make R More Accessible To Non-Coders?
+abstract: In my research field, many are becoming avid users of R, but many are feeling left behind. In my classroom, students get a deeper understanding about statistics by modeling data in R, but they tune out or get anxious at the sight of the console. I am a cognitive psychologist, not a computer scientist, so I have also personally experienced the pain of the non-coder using R. I would like to share some ideas and some questions I have about introducing R in formal and informal learning environments.
 talk: true

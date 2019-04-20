@@ -10,4 +10,6 @@ client: Supply Chain Leader
 clientLink: http://billseliger.blogspot.com/
 category: Speaker
 description: Supply Chain executive, data geek, cyclist, percussionist. Kellogg School of Management MBA, MITx on edX MicroMasters in Supply Chain Management. CPIM CSCP PMP.  I enjoy turning difficult business relationships - silos within organizations - into cooperative alliances and improving my organization’s performance based on the use of data analysis and improved team performance. I have expertise in developing and implementing supply chain strategies, value chain network design, end-to-end operations planning, production planning optimization, and improving the performance of logistics and distribution networks.
+abstractTitle: Lp, Ip And Mip Optimization In R
+abstract: Linear, Integer, and Mixed Integer optimization are widely used in finance, manufacturing, transportation, and many other fields. Learn tips and tricks about how to structure and solve these types of problems using various commercial and open source solvers.
 talk: true

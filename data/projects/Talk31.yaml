@@ -10,4 +10,6 @@ client: UW-Madison Waisman Center
 clientLink: https://tjmahr.com
 category: Speaker
 description: TJ Mahr is a scientist at the UW-Madison Waisman Center. He studies how children with cerebral palsy speak and communicate.
+abstractTitle: Bayesplot: Easy Visualization Of Bayesian Models
+abstract: bayesplot is an R package providing an extensive library of plotting functions for use after fitting Bayesian models. Currently bayesplot offers a variety of plots of posterior draws, visual MCMC diagnostics, as well as graphical posterior predictive checking. In this talk, I will cover what makes Bayesian models special (the model is a collection of samples) and some of the visualizations we provide for users.
 talk: true

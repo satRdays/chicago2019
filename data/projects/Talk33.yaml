@@ -10,4 +10,6 @@ client: NORC at the University of Chicago
 clientLink: https://twitter.com/_willdebras
 category: Speaker
 description: My name is Will Bonnell and I recently graduated from the University of Virginia. I work as a research assistant at the NORC at UChicago and mostly use R for the analysis and visualization of survey data, but have recently spent a lot of time learning about and employing in my work functional R programming.
+abstractTitle: Visualizing Uncertainty In R
+abstract: In the past few years the concept of "uncertainty" of data has come up more and more amongst data visualization experts. This lightning talk would mention very briefly recent research on best practices for visualizing uncertainty of data then would show how to use things like violin plots, margin of error bars, probability distribution  graphs, and hypothetical outcome plots with the new overhauled {gganimate} to visualize uncertainty of survey data.
 talk: true

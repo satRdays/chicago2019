@@ -10,4 +10,6 @@ client: Data Science Technical Lead at Uptake
 clientLink: https://twitter.com/jayyqi
 category: Speaker
 description: Jay Qi is a data science lead at Uptake, an industrial data science software company in Chicago. Jay leads a team of data scientists developing machine learning models to predict heavy equipment failures, covering the construction, agriculture, and mining industries. Jay is an active open source contributor and has (co-)authored different R packages from useful (pkgnet) to fun (spongebob).
+abstractTitle: Level Up Your Package’s Roxygen Documentation
+abstract: The roxygen2 package is the standard for writing documentation for R packages. While the basics are intuitive enough to copy from seeing anybody else’s package, roxygen2 has some advanced tricks that aren’t so obvious. This lightning talk will show some of those tricks, including dummy articles, section and parameter inheritance, and package articles.
 talk: true

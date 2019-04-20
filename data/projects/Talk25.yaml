@@ -10,4 +10,16 @@ client: Senior Data Scientist - Civis Analytics
 clientLink: https://twitter.com/patr1ck_mil
 category: Speaker
 description: Patrick is a senior data scientist at Civis Analytics specializing in survey data analysis, causal inference, and production R. You can usually find him at his desk drinking tea and listening to Sufjan Stevens. Before Civis, Patrick finished his Ph.D. in Quantitative Psychology where he studied applications of machine learning to psychological data analysis.
+abstractTitle: No More “Works For Me”: Using Docker For Reproducible And Production R
+abstract: Half the battle in creating reproducible analyses and putting R into production is managing the compute environment. For full reproducibility, the system, system dependencies, R packages, and any other tools need to be identical. 
+
+Docker is a tool for creating reproducible computing environments with code. Docker images generalize tools for reproducible package management like ‘packrat’ by specifying the entire compute environment, not only R packages. 
+
+To motivate learning Docker’s incantations, this talk focuses on the following three real-world examples:
+
+Reproducible research: Sharing a complex data analysis with a collaborator.
+Developer efficiency: Debugging an error that appears only on a remote server.
+Models in production: Putting your R models directly into production pipelines.
+
+Throughout, I’ll be using docker images from the excellent rocker project, which has already done and documented most of the hard work.
 talk: true

@@ -5,9 +5,12 @@ date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: satrday-logo.png
+preview: Charlotte_Mack.jpg
 client: Independent R user
 clientLink: NA
 category: Speaker
 description: A returning Chicago native who has been engaged in the field of economics, she is currently interested in promoting data awareness for citizen action.
+abstractTitle: Reshaping Reveals The Grammar Of Your Graphics
+abstract: The ability to reshape the structure of a dataset makes both basic and insightful tasks easier. Using the example of a longitudinal dataset, I
+will show how spreading and gathering variables can expose the underlying time series and cross sections for different visualizations.
 talk: true

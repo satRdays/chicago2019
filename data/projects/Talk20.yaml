@@ -10,4 +10,6 @@ client: Field Museum of Natural History
 clientLink: NA
 category: Speaker
 description: Kate works as an information systems specialist at the Field Museum of Natural History's Technology Department.  She hunts for happiness in R, bird brains, and science documentary film.
+abstractTitle: Misadventures In Biodiversity Data Standards
+abstract: Tales of how a few shiny experiments with d3 & R brought a few sunburstR rays of hope at the end of a long data-standardization-project tunnel.  Lessons along the way include the agony and ecstasy of a natural history museum's biodiversity data.
 talk: true

@@ -10,4 +10,8 @@ client: Uptake, Sr. Data Scientist
 clientLink: https://twitter.com/ayanalytics
 category: Speaker
 description: Amy Yang is a Sr. Data Scientist at Uptake where she conducts industrial analytics and build prediction models to major industries and help them increase productivity, security, safety and reliability. She began using R for simulation and statistical analysis during her study at the University of Pennsylvania where she received her MS degree in Biostatistics. She also teaches R programming and statistical courses for graduate students. You can find her on Twitter @ayanalytics.
+
+
+abstractTitle: R And Rstudio Tips And Tricks
+abstract: During this session, you will learn about a dozen very specific R tips and tricks that are either valuable, useful, or just geeky funny. Adopting these tips will increase your workflow efficiency and make your life easier. I will talk about .Rprofile, handy shortcuts, Rstudio IDE tricks and much more. Everybody will take home something new and useful no matter what level of R user they are!
 talk: true

@@ -10,4 +10,6 @@ client: Uptake, Data Science
 clientLink: http://www.WisdomOrData.com
 category: Speaker
 description: Manny Bernabe leads and develops strategic relationships at Uptake. He works with industry partners, universities advisors and business leaders to understand the opportunities for aspiring data-driven organizations. Manny brings a background from the Financial Services sector and specifically asset management. He has deep expertise in research and deployment of quantitative strategies in exchange traded funds (ETFs).
+abstractTitle: Model Evaluation And Optimization With Real World Costs And Benefits
+abstract: Many data science problems have unequal costs and benefits. Traditional methods of classifier evaluation (precision, F1, etc.) are inadequate.  This talk will provide an overview of the expected value framework.  We will discuss threshold optimization and return-on-investment techniques that are more appropriate for evaluating classifiers in the context of business value maximization.
 talk: true

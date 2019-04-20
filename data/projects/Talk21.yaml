@@ -5,9 +5,11 @@ date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Kelly_OBriant.jpg
+preview: Kelly_O'Briant.jpg
 client: RStudio Solutions Engineer
 clientLink: https://medium.com/@kelly.obriant
 category: Speaker
 description: Kelly O’Briant is a solutions engineer at RStudio interested in configuration and workflow management with a passion for R and data science.
+abstractTitle: Introduction To Linux Servers For The User
+abstract: Have you ever been curious about what it would take to set up your very own open source RStudio and Shiny Servers? In this talk, I’ll demonstrate the (surprisingly few) steps it takes to do so, while also sharing my personal experience with learning linux systems and cloud computing. This talk is designed to be especially useful for anyone who wants to be an R champion inside their organization, and learn the skills it takes to administer R for data science teams.
 talk: true

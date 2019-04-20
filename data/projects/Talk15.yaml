@@ -9,5 +9,15 @@ preview: James_Lamb.jpg
 client: Staff Data Scientist - Uptake
 clientLink: https://twitter.com/_jameslamb
 category: Speaker
-description: James Lamb is a staff data scientist at Uptake. In that role, he is a lead data science voice in the infrastructure decisions made by engineering teams working on Uptake's core platform. He also leads the Uptake data science team's open source program. He holds a Master's in Applied Economics from Marquette University and a Masters of Information in Data Science from University of California, Berkeley. He is a vocal advocate of open source software and has made contributions (of varying sizes) to dozens of open source projects. He is a co-author/maintainer on two R packages, "uptasticsearch" and "pkgnet" (both on CRAN). He is also a core member of the LightGBM development team.
+description: James Lamb is a staff data scientist at Uptake. In that role, he is a lead data science voice in the infrastructure decisions made by engineering teams working on Uptake's core platform. He also leads the Uptake data science team's open source program.
+
+He holds a Master's in Applied Economics from Marquette University and a Masters of Information in Data Science from University of California, Berkeley. He is a vocal advocate of open source software and has made contributions (of varying sizes) to dozens of open source projects. He is a co-author/maintainer on two R packages, "uptasticsearch" and "pkgnet" (both on CRAN). He is also a core member of the LightGBM development team.
+abstractTitle: People Shape Software: What I Learned Comparing Python And R Apis
+abstract: I've spent the last year working on major improvements to a large IIoT platform and on ongoing maintenance of a variety of open source projects. Through these activities, I've encountered the same problem many times: "we have/need Python and R packages that do the same thing".
+
+In each of these applications, I found that different developers worked on the Python and R implementations and arrived at very different user interfaces. In my opinion this is a fascinating case study in the human side of software development: "how could two communities of developers given the same functional requirements arrive at such different APIs?"
+
+In this short talk, I'll attempt to answer that and to offer some conjectures on what I think is at place. I'll use evidence from several open source projects (XGBoost, LightGBM, uptasticsearch, Apache Arrow) using an open source project I've created called "doppel-cli" (https://github.com/jameslamb/doppel-cli). I will also explain why I think keeping the APIs for these libraries consistent across languages is beneficial to developers and users, and I'll show how I use doppel-cli to do that on my own projects.
+
+Attendees will learn a bit about the social forces that lead to particular software implementations and how to think outside the box in using CI to control a project's direction. They'll also get introduced to some open source data science projects that could use more attention from the R community!
 talk: true

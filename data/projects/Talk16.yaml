@@ -10,4 +10,6 @@ client: Sr Business Analyst, Capital One
 clientLink: NA
 category: Speaker
 description: I've been at Capital One since 2017, where I use R in much of my day-to-day analysis. Last year,  I built a package to help others at the company build out credit monitoring in R.
+abstractTitle: Creating An R Package
+abstract: You’ve written some awesome code to perform analysis or solve a problem—but what’s next? Create a package to share with others! This lightning talk will explore both technical and design considerations for turning code written for a specific project into a package that others can use. We will share tips and tricks for abstracting your code into flexible functions, testing functions with testtthat, structuring your package with usethis, documenting your package with roxygen2, and writing effective vignettes to be shared on a pkgdown website. Listeners should walk away ready to create a useful, intuitive, and user-friendly package.
 talk: true

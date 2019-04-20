@@ -5,9 +5,13 @@ date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Sushmita_V_Gopalan.jpg
+preview: Sushmita_V Gopalan.jpg
 client: Data Scientist, Northwestern University
 clientLink: https://sushmitavgopalan.netlify.com/
 category: Speaker
 description: Sushmita is a Data Scientist at the Northwestern Networks and Neighborhoods Initiative. She has an MA in Computational Social Science from the University of Chicago. Sushmita's favourite data science applications are in public health and popular culture.
+abstractTitle: Class Imbalance Methods In Machine Learning
+abstract: A common problem encountered in classification problems is that of class imbalance. In a binary classification context, this means that one class occurs far more than the other. The sparseness of observations from the minority class makes it difficult for the classifier to learn to identify it accurately. Further, the metrics of model evaluation we use in balanced datasets do not work quite as well in these contexts. 
+
+In this talk I will go through five different strategies to address the class imbalance problem and demonstrate implementations in R. I will proceed to describe and demonstrate how I used these strategies in my master's thesis to identify pregnant mothers who are at high risk for infant death.
 talk: true
