@@ -174,7 +174,7 @@ googleAnalytics = "UA-135356916-1"
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Speakers"
-    subtitle = "Our speakers for SatRday Chicago 2019"
+    subtitle = "Our speakers for SatRday Chicago 2019. Click on their profiles for more information about their talks!"
     bg = true
 
     [params.portfolio.modal]
