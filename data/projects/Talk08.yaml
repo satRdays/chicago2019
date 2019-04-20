@@ -9,7 +9,7 @@ preview: Brett_Kobold.jpg
 client: Senior Manager - Marketing Analytics
 clientLink: https://www.brettkobold.com
 category: Speaker
-description: Passioante analyst always looking for his next project in R.
-abstractTitle: Creating Fuller Maps With R: Filling In Missing Values
-abstract: Ever had a county map that is ugly because it is missing data? Make your maps fuller and prettier by working with existing data to fill in missing values.
+description: "Passioante analyst always looking for his next project in R."
+abstractTitle: "Creating Fuller Maps With R: Filling In Missing Values"
+abstract: "Ever had a county map that is ugly because it is missing data? Make your maps fuller and prettier by working with existing data to fill in missing values."
 talk: true

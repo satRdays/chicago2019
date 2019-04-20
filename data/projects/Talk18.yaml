@@ -9,7 +9,7 @@ preview: Jorge_Argueta.jpg
 client: AVP, Product Manager
 clientLink: https://twitter.com/jorgeargueta
 category: Speaker
-description: Product Manager in the fintech industry, with the ability to turn raw data into understanding, insight and knowledge. Able to leverage basic mathematics and applied statistics with visualizations, clearly and strategically to achieve business goals.
-abstractTitle: Web Scraping, Sentiment Analysis & Clustering With R
-abstract: Having access to an API is not always free, fortunately we can web scrape. However, not all web sites allow you to do so, which could cause your IP address to be blocked. We plan to share lessons learned on how to responsibly scrape data, tidy it and get a sentiment score from it. Our final step will be to cluster it and get a clear picture of the most streamed songs in Spotify and their sentiment based on their lyrics.
+description: "Product Manager in the fintech industry, with the ability to turn raw data into understanding, insight and knowledge. Able to leverage basic mathematics and applied statistics with visualizations, clearly and strategically to achieve business goals."
+abstractTitle: "Web Scraping, Sentiment Analysis & Clustering With R"
+abstract: "Having access to an API is not always free, fortunately we can web scrape. However, not all web sites allow you to do so, which could cause your IP address to be blocked. We plan to share lessons learned on how to responsibly scrape data, tidy it and get a sentiment score from it. Our final step will be to cluster it and get a clear picture of the most streamed songs in Spotify and their sentiment based on their lyrics."
 talk: true

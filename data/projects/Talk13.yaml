@@ -9,8 +9,8 @@ preview: David_Thomas.jpg
 client: Senior Research and Data Analyst
 clientLink: https://twitter.com/davidthomasone
 category: Speaker
-description: Aaron: all-around good guy and family dude, "Ask me about the Avalanche"
-David: oldster, bike enthusiast, armchair progressive
-abstractTitle: Shiny App For Non-R Users
-abstract: Shiny app devised for non-R user to assimilate data from different sources and process for custom reports. Context is university student assessment data capture from one source; records join with class and student data from another, then selectively disaggregate, filter and export user-friendly spreadsheets
+description: "Aaron: all-around good guy and family dude, "Ask me about the Avalanche"
+David: oldster, bike enthusiast, armchair progressive"
+abstractTitle: "Shiny App For Non-R Users"
+abstract: "Shiny app devised for non-R user to assimilate data from different sources and process for custom reports. Context is university student assessment data capture from one source; records join with class and student data from another, then selectively disaggregate, filter and export user-friendly spreadsheets"
 talk: true

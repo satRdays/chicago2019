@@ -9,7 +9,7 @@ preview: Alexandra_Mangold.jpg
 client: Senior Director of Operations & Analytics, Measure UAS
 clientLink: https://github.com/aamangold
 category: Speaker
-description: Alexandra loves R and uses it daily to help do her job better. At Measure, she works to connect data across systems and teams, with a focus on translating metrics into business insights.
-abstractTitle: Connecting Teams And Systems With R's Api Tools
-abstract: Session will walk through how I used R to connect my company's two primary database systems, both of which had APIs but no out-of-the-box integration available. This involved using existing Github packages, building an API wrapper with httr, creating a package to house integration functions, and making the tool accessible for non-R users.
+description: "Alexandra loves R and uses it daily to help do her job better. At Measure, she works to connect data across systems and teams, with a focus on translating metrics into business insights."
+abstractTitle: "Connecting Teams And Systems With R's Api Tools"
+abstract: "Session will walk through how I used R to connect my company's two primary database systems, both of which had APIs but no out-of-the-box integration available. This involved using existing Github packages, building an API wrapper with httr, creating a package to house integration functions, and making the tool accessible for non-R users."
 talk: true

@@ -9,8 +9,8 @@ preview: Tomas_Okal.jpg
 client: Research Analyst
 clientLink: https://twitter.com/tomasokal
 category: Speaker
-description: Master's Degree in Political Science and International Relations from the University of Georgia. Research Analyst at NORC.
-abstractTitle: Fantastical Picks And When To Trade Them
-abstract: Fantasy sports utilize randomized drafts where participants pick players in a specific order based on expected outcome over the course of a season. While the first overall pick is very clearly preferred over the second overall pick, it can be difficult to judge whether or not to trade a draft pick for another nor what the value of a pick is worth given various types of leagues, different scoring for different player positions, and availability of replacement players for a position. Using the past 20 years of fantasy football data and average draft position, I present a way to use R to quantify the value of a draft pick given a fantasy league type and rules. The talk would first present the process behind quantifying a draft position given the uncertainty of position type and value, then describe how to visualize this value, and finally present how to use this information to make informed decisions on how to beat your fellow league mates in trade offers. 
-
+description: "Master's Degree in Political Science and International Relations from the University of Georgia. Research Analyst at NORC."
+abstractTitle: "Fantastical Picks And When To Trade Them"
+abstract: "Fantasy sports utilize randomized drafts where participants pick players in a specific order based on expected outcome over the course of a season. While the first overall pick is very clearly preferred over the second overall pick, it can be difficult to judge whether or not to trade a draft pick for another nor what the value of a pick is worth given various types of leagues, different scoring for different player positions, and availability of replacement players for a position. Using the past 20 years of fantasy football data and average draft position, I present a way to use R to quantify the value of a draft pick given a fantasy league type and rules. The talk would first present the process behind quantifying a draft position given the uncertainty of position type and value, then describe how to visualize this value, and finally present how to use this information to make informed decisions on how to beat your fellow league mates in trade offers. 
+"
 talk: true
