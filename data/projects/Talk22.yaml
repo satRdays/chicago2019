@@ -5,11 +5,11 @@ date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Kristen_Van Tine.jpg
+preview: Kristen_Van_Tine.jpg
 client: Research Associate at Northwestern University
 clientLink: https://www.linkedin.com/in/kristen-van-tine-1a8061176/
 category: Speaker
 description: "Kristen works in two psychology labs at Northwestern University. She first learned how to use R from Dr. William Revelle, the creator of the Psych package."
-abstractTitle: "Psychometrics & Unique Functions In The \"Psych\" Package"
-abstract: "The \"Psych\" package contains functions useful for a variety of data analyses, functions tailored to assist with psychometric analyses, aesthetic data displays, and a collection of unique datasets to play with. The package also offers user-friendly, organized outputs of common functions, such as \"describe.\" I will introduce and demonstrate how to use the following functions: \"describe,\" \"describeBy,\" \"pairs.panels,\" \"densityBy,\" \"keys.list,\" \"scoreItems,\" and \"ICLUST,\" \"ICLUST.graph.\""
+abstractTitle: "Psychometrics & Unique Functions In The "Psych" Package"
+abstract: "The "Psych" package contains functions useful for a variety of data analyses, functions tailored to assist with psychometric analyses, aesthetic data displays, and a collection of unique datasets to play with. The package also offers user-friendly, organized outputs of common functions, such as "describe." I will introduce and demonstrate how to use the following functions: "describe," "describeBy," "pairs.panels," "densityBy," "keys.list," "scoreItems," and "ICLUST," "ICLUST.graph.""
 talk: true
