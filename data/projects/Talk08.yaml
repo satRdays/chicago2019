@@ -1,15 +1,15 @@
 modalID: 8
-title: Brett Kobold
-subtitle: Senior Manager - Marketing Analytics
+title: Bill Seliger
+subtitle: Supply Chain Leader
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Brett_Kobold.jpg
-client: Senior Manager - Marketing Analytics
-clientLink: https://www.brettkobold.com
+preview: Bill_Seliger.jpg
+client: Supply Chain Leader
+clientLink: http://billseliger.blogspot.com/
 category: Speaker
-description: "Passioante analyst always looking for his next project in R."
-abstractTitle: "Creating Fuller Maps With R: Filling In Missing Values"
-abstract: "Ever had a county map that is ugly because it is missing data? Make your maps fuller and prettier by working with existing data to fill in missing values."
+description: "Supply Chain executive, data geek, cyclist, percussionist. Kellogg School of Management MBA, MITx on edX MicroMasters in Supply Chain Management. CPIM CSCP PMP.  I enjoy turning difficult business relationships - silos within organizations - into cooperative alliances and improving my organization’s performance based on the use of data analysis and improved team performance. I have expertise in developing and implementing supply chain strategies, value chain network design, end-to-end operations planning, production planning optimization, and improving the performance of logistics and distribution networks."
+abstractTitle: "Lp, Ip And Mip Optimization In R"
+abstract: "Linear, Integer, and Mixed Integer optimization are widely used in finance, manufacturing, transportation, and many other fields. Learn tips and tricks about how to structure and solve these types of problems using various commercial and open source solvers."
 talk: true

@@ -1,16 +1,17 @@
 modalID: 11
-title: Charlotte Mack
-subtitle: Independent R user
+title: Bryan Berend
+subtitle: Sr. Applied Data Scientist @ Civis Analytics
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Charlotte_Mack.jpg
-client: Independent R user
-clientLink: NA
+preview: Bryan_Berend.jpg
+client: Sr. Applied Data Scientist @ Civis Analytics
+clientLink: https://www.linkedin.com/in/bryanberend/
 category: Speaker
-description: "A returning Chicago native who has been engaged in the field of economics, she is currently interested in promoting data awareness for citizen action."
-abstractTitle: "Reshaping Reveals The Grammar Of Your Graphics"
-abstract: "The ability to reshape the structure of a dataset makes both basic and insightful tasks easier. Using the example of a longitudinal dataset, I
-will show how spreading and gathering variables can expose the underlying time series and cross sections for different visualizations."
+description: "Bryan Berend is a Sr. Applied Data Scientist at Civis Analytics. At Civis, Bryan has worked with commercial and public sector clients on a variety of topics including survey design, modeling, and experimentation. Previously, Bryan was a Data Scientist at Nielsen where he worked improving statistical projections of retailer and panel data. Bryan also once worked in a ravioli factory."
+abstractTitle: "Applying Empirical Bayesian Techniques To Illinois Traffic Stop Data"
+abstract: "In this talk, I will introduce the audience to simple, yet powerful, Empirical Bayesian techniques by examining traffic stop data collected in Illinois over several years. By looking at the rates in which different white and non-white drivers are given citations by the police, we will show how to estimate a prior distribution from the data and use that information to “shrink” our point estimates. This ultimately will allow us to make more confident conclusions about how police departments are treating white vs non-white drivers. We will also walk through the code to produce the analysis. 
+
+The inspiration from this talk comes from the IL Traffic Stops analysis (https://illinoistrafficstops.com/), which earlier this year presented evidence that several police departments in Illinois are subjecting minority drivers to vehicle searches at a higher rate than white drivers. We will be looking at the data through the framework of Empirical Bayesian methods, specifically those introduced in a series of blog posts by David Robinson (http://varianceexplained.org/r/empirical-bayes-book/)."
 talk: true

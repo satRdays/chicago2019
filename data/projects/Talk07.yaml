@@ -1,15 +1,15 @@
 modalID: 7
-title: Bill Seliger
-subtitle: Supply Chain Leader
+title: Annie Wang
+subtitle: R-Ladies Chicago
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Bill_Seliger.jpg
-client: Supply Chain Leader
-clientLink: http://billseliger.blogspot.com/
+preview: Annie_Wang.jpg
+client: R-Ladies Chicago
+clientLink: https://www.linkedin.com/in/annie-wang-uc/
 category: Speaker
-description: "Supply Chain executive, data geek, cyclist, percussionist. Kellogg School of Management MBA, MITx on edX MicroMasters in Supply Chain Management. CPIM CSCP PMP.  I enjoy turning difficult business relationships - silos within organizations - into cooperative alliances and improving my organization’s performance based on the use of data analysis and improved team performance. I have expertise in developing and implementing supply chain strategies, value chain network design, end-to-end operations planning, production planning optimization, and improving the performance of logistics and distribution networks."
-abstractTitle: "Lp, Ip And Mip Optimization In R"
-abstract: "Linear, Integer, and Mixed Integer optimization are widely used in finance, manufacturing, transportation, and many other fields. Learn tips and tricks about how to structure and solve these types of problems using various commercial and open source solvers."
+description: "I'm a life insurance actuary and an enthusiastic user of R for many, many years. I graduated from the University of Chicago with a BA in Economics and have been working at Lincoln Benefit Life ever since. My latest interests include machine learning and data science, finding ways to apply R to actuarial science, and engaging with the R community."
+abstractTitle: "Mortality - Using R To Predict Life Insurance Claims"
+abstract: "Life insurance companies are pretty good at determining how much in claims they're expected to pay, aka when you're most likely going to die! How do life actuaries predict mortality, and what role does R play in this process?"
 talk: true

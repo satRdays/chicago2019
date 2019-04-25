@@ -1,15 +1,15 @@
 modalID: 15
-title: James Lamb
-subtitle: Staff Data Scientist - Uptake
+title: Irene Farah
+subtitle: Research Associate at the Center for Spatial Data Science
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: James_Lamb.jpg
-client: Staff Data Scientist - Uptake
-clientLink: https://twitter.com/_jameslamb
+preview: Irene_Farah.jpg
+client: Research Associate at the Center for Spatial Data Science
+clientLink: https://www.linkedin.com/in/imfarah/
 category: Speaker
-description: "James Lamb is a staff data scientist at Uptake. In that role, he is a lead data science voice in the infrastructure decisions made by engineering teams working on Uptake's core platform. He also leads the Uptake data science team's open source program. He holds a Master's in Applied Economics from Marquette University and a Masters of Information in Data Science from University of California, Berkeley. He is a vocal advocate of open source software and has made contributions (of varying sizes) to dozens of open source projects. He is a co-author/maintainer on two R packages, \"uptasticsearch\" and \"pkgnet\" (both on CRAN). He is also a core member of the LightGBM development team."
-abstractTitle: "People Shape Software: What I Learned Comparing Python And R Apis"
-abstract: "I've spent the last year working on major improvements to a large IIoT platform and on ongoing maintenance of a variety of open source projects. Through these activities, I've encountered the same problem many times: \"we have/need Python and R packages that do the same thing\". In each of these applications, I found that different developers worked on the Python and R implementations and arrived at very different user interfaces. In my opinion this is a fascinating case study in the human side of software development: \"how could two communities of developers given the same functional requirements arrive at such different APIs?\" In this short talk, I'll attempt to answer that and to offer some conjectures on what I think is at place. I'll use evidence from several open source projects (XGBoost, LightGBM, uptasticsearch, Apache Arrow) using an open source project I've created called \"doppel-cli\" (https://github.com/jameslamb/doppel-cli). I will also explain why I think keeping the APIs for these libraries consistent across languages is beneficial to developers and users, and I'll show how I use doppel-cli to do that on my own projects. Attendees will learn a bit about the social forces that lead to particular software implementations and how to think outside the box in using CI to control a project's direction. They'll also get introduced to some open source data science projects that could use more attention from the R community!"
+description: "Irene Farah is a Research Associate at the Center for Spatial Data Science at the University of Chicago. She has a Bachelor’s in Political Science, a Master’s in Social Sciences, and she previously worked doing poverty measurement research for the Mexican government. Her current research interests are social dynamics, access to food, and firm demographics."
+abstractTitle: "Spatial Point Pattern Analysis Of Retail Businesses"
+abstract: "In this talk I will focus in the usage of R for studying firm demographics of the retail sector. Firm demographics study the life and death of corporations and industries using the formal methods of mathematical demography. While this approach has seen application at a macro level in economics and regional science; I study the coexistence of businesses at a micro level using detailed business establishment information on their location, obtained from the National Establishment Time Series (NETS) database. I will elucidate how I have used R and PostgreSQL together in order to query the data points from the spatial database. Then, I will apply point pattern analyses (using spatstat) to study the business location of births and deaths across different cities in the United States."
 talk: true

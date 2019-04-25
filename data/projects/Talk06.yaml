@@ -1,15 +1,15 @@
 modalID: 6
-title: Annie Wang
-subtitle: R-Ladies Chicago
+title: Anh Tran
+subtitle: Postdoc at Northwestern U
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Annie_Wang.jpg
-client: R-Ladies Chicago
-clientLink: https://www.linkedin.com/in/annie-wang-uc/
+preview: Anh_Tran.jpg
+client: Postdoc at Northwestern U
+clientLink: https://twitter.com/anh_n_tran
 category: Speaker
-description: "I'm a life insurance actuary and an enthusiastic user of R for many, many years. I graduated from the University of Chicago with a BA in Economics and have been working at Lincoln Benefit Life ever since. My latest interests include machine learning and data science, finding ways to apply R to actuarial science, and engaging with the R community."
-abstractTitle: "Mortality - Using R To Predict Life Insurance Claims"
-abstract: "Life insurance companies are pretty good at determining how much in claims they're expected to pay, aka when you're most likely going to die! How do life actuaries predict mortality, and what role does R play in this process?"
+description: "I am a postdoc at Northwestern University, working on various wet lab projects. I self-taught R in grad school and have been trying to incorporate R into my research as much as possible."
+abstractTitle: "Developing R Package For Exploratory Analysis Of Publicly Available Data: Hpaanalyze"
+abstract: "BACKGROUND: The Human Protein Atlas (HPA) is a comprehensive resource for exploration of human proteome which contains a vast amount of proteomics and transcriptomics data generated from antibody-based tissue micro-array profiling and RNA deep-sequencing. Data from the HPA are freely available via proteinatlas.org, allowing scientists to access and incorporate the data into their research. Previously, the R package hpar has been created for fast and easy programmatic access of HPA data. Here, we introduce HPAanalyze, an R package aims to simplify exploratory data analysis from those data, as well as provide other complementary functionality to hpar. RESULTS: HPAanalyze is an R package for retrieving and performing exploratory data analysis from HPA. It provides functionality for importing data tables and xml files from HPA, exporting and visualizing data, as well as download all staining images of interest. The package is free, open source, and available via Github. CONCLUSIONS: HPAanalyze intergrates into the R workflow via the tidyverse philosophy and data structures, and can be used in combination with Bioconductor packages for easy analysis of HPA data."
 talk: true

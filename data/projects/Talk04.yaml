@@ -1,17 +1,15 @@
 modalID: 4
-title: Amy Yang
-subtitle: Uptake, Sr. Data Scientist
+title: Alexandra Mangold
+subtitle: Senior Director of Operations & Analytics, Measure UAS
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Amy_Yang.jpg
-client: Uptake, Sr. Data Scientist
-clientLink: https://twitter.com/ayanalytics
+preview: Alexandra_Mangold.jpg
+client: Senior Director of Operations & Analytics, Measure UAS
+clientLink: https://github.com/aamangold
 category: Speaker
-description: "Amy Yang is a Sr. Data Scientist at Uptake where she conducts industrial analytics and build prediction models to major industries and help them increase productivity, security, safety and reliability. She began using R for simulation and statistical analysis during her study at the University of Pennsylvania where she received her MS degree in Biostatistics. She also teaches R programming and statistical courses for graduate students. You can find her on Twitter @ayanalytics.
-
-"
-abstractTitle: "R And Rstudio Tips And Tricks"
-abstract: "During this session, you will learn about a dozen very specific R tips and tricks that are either valuable, useful, or just geeky funny. Adopting these tips will increase your workflow efficiency and make your life easier. I will talk about .Rprofile, handy shortcuts, Rstudio IDE tricks and much more. Everybody will take home something new and useful no matter what level of R user they are!"
+description: "Alexandra loves R and uses it daily to help do her job better. At Measure, she works to connect data across systems and teams, with a focus on translating metrics into business insights."
+abstractTitle: "Connecting Teams And Systems With R's Api Tools"
+abstract: "Session will walk through how I used R to connect my company's two primary database systems, both of which had APIs but no out-of-the-box integration available. This involved using existing Github packages, building an API wrapper with httr, creating a package to house integration functions, and making the tool accessible for non-R users."
 talk: true

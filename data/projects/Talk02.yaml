@@ -1,15 +1,15 @@
-modalID: 1
-title: Adam Lyon
-subtitle: Senior Scientist at Fermilab
+modalID: 2
+title: Adam Austin
+subtitle: Freewheeling Data Scientist at Allstate
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Adam_Lyon.jpg
-client: Senior Scientist at Fermilab
-clientLink: http://www.linkedin.com/in/adamllyon
+preview: Adam_Austin.jpg
+client: Freewheeling Data Scientist at Allstate
+clientLink: https://twitter.com/just_add_data
 category: Speaker
-description: "Adam is a senior scientist and associate division head of the Scientific Computing Division at the Fermi National Accelerator Laboratory (Fermilab). He has been involved in scientific computing for his entire career. Adam is working on the Muon g-2 experiment, which searches for new physics by measuring the dipole moment of the muon to unprecedented precision. He has interests in High Performance and High Throughput computing as well as Quantum computing."
-abstractTitle: "Making C++ Run Better With R"
-abstract: "At Fermilab, millions of lines of C++ software are written by physicists (most are not C++ programming experts)  to process and analyze data from our many High Energy Physics experiments. Often, such code needs to be profiled for both time and memory usage in order to run efficiently on computing resources. Understanding the results of profiling tools is difficult and often analyses are not performed in a reproducible way. R has several tools and packages that make such profile analyses easier and reproducible. They will be covered in this presentation."
+description: "Adam bounced around biology, economics, and biostatistics before finally falling in love with R thanks to his education at UC Davis.  He now works in insurance, which is what he tells people at parties to get them to go away.  He spends his days writing R, avoiding Python, and disparaging SAS.  He spends his weekends wrangling his three foster children."
+abstractTitle: "Building An Analytic Culture In Your Organization"
+abstract: "The value of analytics is self-evident among data scientists and other practitioners, but analytics may be badly misunderstood, abused, or even feared outside your department.  In this session I explore options for demystifying various aspects of analytics for everyone from new data science hires, to casual analysts, to senior leadership.  I explain how Allstate is building an analytic culture and how you can begin doing the same with the resources at your disposal."
 talk: true

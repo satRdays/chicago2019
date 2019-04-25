@@ -1,15 +1,15 @@
 modalID: 14
-title: Irene Farah
-subtitle: Research Associate at the Center for Spatial Data Science
+title: David Thomas
+subtitle: Senior Research and Data Analyst
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Irene_Farah.jpg
-client: Research Associate at the Center for Spatial Data Science
-clientLink: https://www.linkedin.com/in/imfarah/
+preview: David_Thomas.jpg
+client: Senior Research and Data Analyst
+clientLink: https://twitter.com/davidthomasone
 category: Speaker
-description: "Irene Farah is a Research Associate at the Center for Spatial Data Science at the University of Chicago. She has a Bachelor’s in Political Science, a Master’s in Social Sciences, and she previously worked doing poverty measurement research for the Mexican government. Her current research interests are social dynamics, access to food, and firm demographics."
-abstractTitle: "Spatial Point Pattern Analysis Of Retail Businesses"
-abstract: "In this talk I will focus in the usage of R for studying firm demographics of the retail sector. Firm demographics study the life and death of corporations and industries using the formal methods of mathematical demography. While this approach has seen application at a macro level in economics and regional science; I study the coexistence of businesses at a micro level using detailed business establishment information on their location, obtained from the National Establishment Time Series (NETS) database. I will elucidate how I have used R and PostgreSQL together in order to query the data points from the spatial database. Then, I will apply point pattern analyses (using spatstat) to study the business location of births and deaths across different cities in the United States."
+description: "Oldster, bike enthusiast, armchair progressive"
+abstractTitle: "Shiny App For Non-R Users"
+abstract: "Shiny app devised for non-R user to assimilate data from different sources and process for custom reports. Context is university student assessment data capture from one source; records join with class and student data from another, then selectively disaggregate, filter and export user-friendly spreadsheets"
 talk: true

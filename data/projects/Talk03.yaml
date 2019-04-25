@@ -1,15 +1,15 @@
 modalID: 3
-title: Alexandra Mangold
-subtitle: Senior Director of Operations & Analytics, Measure UAS
+title: Adam Lyon
+subtitle: Senior Scientist at Fermilab
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Alexandra_Mangold.jpg
-client: Senior Director of Operations & Analytics, Measure UAS
-clientLink: https://github.com/aamangold
+preview: Adam_Lyon.jpg
+client: Senior Scientist at Fermilab
+clientLink: http://www.linkedin.com/in/adamllyon
 category: Speaker
-description: "Alexandra loves R and uses it daily to help do her job better. At Measure, she works to connect data across systems and teams, with a focus on translating metrics into business insights."
-abstractTitle: "Connecting Teams And Systems With R's Api Tools"
-abstract: "Session will walk through how I used R to connect my company's two primary database systems, both of which had APIs but no out-of-the-box integration available. This involved using existing Github packages, building an API wrapper with httr, creating a package to house integration functions, and making the tool accessible for non-R users."
+description: "Adam is a senior scientist and associate division head of the Scientific Computing Division at the Fermi National Accelerator Laboratory (Fermilab). He has been involved in scientific computing for his entire career. Adam is working on the Muon g-2 experiment, which searches for new physics by measuring the dipole moment of the muon to unprecedented precision. He has interests in High Performance and High Throughput computing as well as Quantum computing."
+abstractTitle: "Making C++ Run Better With R"
+abstract: "At Fermilab, millions of lines of C++ software are written by physicists (most are not C++ programming experts)  to process and analyze data from our many High Energy Physics experiments. Often, such code needs to be profiled for both time and memory usage in order to run efficiently on computing resources. Understanding the results of profiling tools is difficult and often analyses are not performed in a reproducible way. R has several tools and packages that make such profile analyses easier and reproducible. They will be covered in this presentation."
 talk: true

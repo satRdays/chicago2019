@@ -1,17 +1,15 @@
 modalID: 19
-title: Joshua Goldberg
-subtitle: Nuveen, Senior Analyst Distribution Data Science
+title: Jorge Argueta
+subtitle: AVP, Product Manager
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Joshua_Goldberg.jpg
-client: Nuveen, Senior Analyst Distribution Data Science
-clientLink: https://twitter.com/GoldbergData
+preview: Jorge_Argueta.jpg
+client: AVP, Product Manager
+clientLink: https://twitter.com/jorgeargueta
 category: Speaker
-description: "Joshua Goldberg is passionate about coding, statistics, and research. During the day, he solves business problems with #rstats and machine learning at Nuveen. At night, he attends University of Chicago’s Masters in Data Science, trains for Marathons, and occasionally practices photography. Joshua is also an active community member in data science groups: Chicago R User Group and R-Ladies."
-abstractTitle: "No Apis? No Problem. Automating Personalized Content Delivery With R And Excel."
-abstract: "As R data scientist / analyst, we'd prefer to deliver our content/analysis/predictions, etc. in clean APIs, shiny apps, or fluid applications. Some times this is not possible for numerous reasons. Maybe your company has not fully adopted R. Maybe the technology infrastructure has not been worked out to use APIs, shiny apps, or web applications. Maybe you simply have not taken the technical dive to learn how to used more advanced tools for content delivery in R.
-
-Whatever the reason, you still have some content right now that you want to deliver to users. Say it's 50 users, 100, 200? Well, there is a simple and low startup cost workflow that I have found to be useful for delivering personalized content to users without much technical debt. That method combines R, Excel, and email. The result is personalized Excel workbooks (macro free) for each user delivered right to their inbox. In a matter of 10 minutes or so, you will be able to utilize this workflow to meet your immediate needs for content delivery in R."
+description: "Product Manager in the fintech industry, with the ability to turn raw data into understanding, insight and knowledge. Able to leverage basic mathematics and applied statistics with visualizations, clearly and strategically to achieve business goals."
+abstractTitle: "Web Scraping, Sentiment Analysis & Clustering With R"
+abstract: "Having access to an API is not always free, fortunately we can web scrape. However, not all web sites allow you to do so, which could cause your IP address to be blocked. We plan to share lessons learned on how to responsibly scrape data, tidy it and get a sentiment score from it. Our final step will be to cluster it and get a clear picture of the most streamed songs in Spotify and their sentiment based on their lyrics."
 talk: true

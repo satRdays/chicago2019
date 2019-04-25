@@ -1,15 +1,15 @@
 modalID: 23
-title: Manny Bernabe
-subtitle: Uptake, Data Science
+title: Kristen Van Tine
+subtitle: Research Associate at Northwestern University
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Manny_Bernabe.jpg
-client: Uptake, Data Science
-clientLink: http://www.WisdomOrData.com
+preview: Kristen_Van_Tine.jpg
+client: Research Associate at Northwestern University
+clientLink: https://www.linkedin.com/in/kristen-van-tine-1a8061176/
 category: Speaker
-description: "Manny Bernabe leads and develops strategic relationships at Uptake. He works with industry partners, universities advisors and business leaders to understand the opportunities for aspiring data-driven organizations. Manny brings a background from the Financial Services sector and specifically asset management. He has deep expertise in research and deployment of quantitative strategies in exchange traded funds (ETFs)."
-abstractTitle: "Model Evaluation And Optimization With Real World Costs And Benefits"
-abstract: "Many data science problems have unequal costs and benefits. Traditional methods of classifier evaluation (precision, F1, etc.) are inadequate.  This talk will provide an overview of the expected value framework.  We will discuss threshold optimization and return-on-investment techniques that are more appropriate for evaluating classifiers in the context of business value maximization."
+description: 'Kristen works in two psychology labs at Northwestern University. She first learned how to use R from Dr. William Revelle, the creator of the Psych package.'
+abstractTitle: 'Psychometrics & Unique Functions In The "Psych" Package'
+abstract: 'The "Psych" package contains functions useful for a variety of data analyses, functions tailored to assist with psychometric analyses, aesthetic data displays, and a collection of unique datasets to play with. The package also offers user-friendly, organized outputs of common functions, such as "describe." I will introduce and demonstrate how to use the following functions: "describe," "describeBy," "pairs.panels," "densityBy," "keys.list," "scoreItems," and "ICLUST," "ICLUST.graph."'
 talk: true

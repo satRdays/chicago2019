@@ -1,15 +1,17 @@
 modalID: 5
-title: Anh Tran
-subtitle: Postdoc at Northwestern U
+title: Amy Yang
+subtitle: Uptake, Sr. Data Scientist
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Anh_Tran.jpg
-client: Postdoc at Northwestern U
-clientLink: https://twitter.com/anh_n_tran
+preview: Amy_Yang.jpg
+client: Uptake, Sr. Data Scientist
+clientLink: https://twitter.com/ayanalytics
 category: Speaker
-description: "I am a postdoc at Northwestern University, working on various wet lab projects. I self-taught R in grad school and have been trying to incorporate R into my research as much as possible."
-abstractTitle: "Developing R Package For Exploratory Analysis Of Publicly Available Data: Hpaanalyze"
-abstract: "BACKGROUND: The Human Protein Atlas (HPA) is a comprehensive resource for exploration of human proteome which contains a vast amount of proteomics and transcriptomics data generated from antibody-based tissue micro-array profiling and RNA deep-sequencing. Data from the HPA are freely available via proteinatlas.org, allowing scientists to access and incorporate the data into their research. Previously, the R package hpar has been created for fast and easy programmatic access of HPA data. Here, we introduce HPAanalyze, an R package aims to simplify exploratory data analysis from those data, as well as provide other complementary functionality to hpar. RESULTS: HPAanalyze is an R package for retrieving and performing exploratory data analysis from HPA. It provides functionality for importing data tables and xml files from HPA, exporting and visualizing data, as well as download all staining images of interest. The package is free, open source, and available via Github. CONCLUSIONS: HPAanalyze intergrates into the R workflow via the tidyverse philosophy and data structures, and can be used in combination with Bioconductor packages for easy analysis of HPA data."
+description: "Amy Yang is a Sr. Data Scientist at Uptake where she conducts industrial analytics and build prediction models to major industries and help them increase productivity, security, safety and reliability. She began using R for simulation and statistical analysis during her study at the University of Pennsylvania where she received her MS degree in Biostatistics. She also teaches R programming and statistical courses for graduate students. You can find her on Twitter @ayanalytics.
+
+"
+abstractTitle: "R And Rstudio Tips And Tricks"
+abstract: "During this session, you will learn about a dozen very specific R tips and tricks that are either valuable, useful, or just geeky funny. Adopting these tips will increase your workflow efficiency and make your life easier. I will talk about .Rprofile, handy shortcuts, Rstudio IDE tricks and much more. Everybody will take home something new and useful no matter what level of R user they are!"
 talk: true

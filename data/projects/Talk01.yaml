@@ -1,15 +1,13 @@
-modalID: 2
-title: Adam Austin
-subtitle: Freewheeling Data Scientist at Allstate
+modalID: 1
+title: Aaron Hawn
+subtitle: Research Analyst at North Central College
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Adam_Austin.jpg
-client: Freewheeling Data Scientist at Allstate
-clientLink: https://twitter.com/just_add_data
+preview: Aaron_Hawn.jpg
+client: Research Analyst at North Central College
+clientLink: https://twitter.com/Aaron_Hawn
 category: Speaker
-description: "Adam bounced around biology, economics, and biostatistics before finally falling in love with R thanks to his education at UC Davis.  He now works in insurance, which is what he tells people at parties to get them to go away.  He spends his days writing R, avoiding Python, and disparaging SAS.  He spends his weekends wrangling his three foster children."
-abstractTitle: "Building An Analytic Culture In Your Organization"
-abstract: "The value of analytics is self-evident among data scientists and other practitioners, but analytics may be badly misunderstood, abused, or even feared outside your department.  In this session I explore options for demystifying various aspects of analytics for everyone from new data science hires, to casual analysts, to senior leadership.  I explain how Allstate is building an analytic culture and how you can begin doing the same with the resources at your disposal."
+description: Aaron is a research analyst currently working in Naperville at North Central College.  He previously worked with Mr. David Thomas at Concordia University where together they worked on a C# application to analyze and present Assessment data.  More recently they re-wrote this application as a Shiny App. 
 talk: true
