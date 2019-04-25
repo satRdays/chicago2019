@@ -315,10 +315,6 @@ googleAnalytics = "UA-135356916-1"
     [[params.clients]]
       logo = "rconsortium.png"
       link = "https://www.r-consortium.org/"
-    
-    [[params.clients]]
-      logo = "roosevelt.png"
-      link = "https://www.roosevelt.edu/"
 
     [[params.clients]]
       logo = "capital-one.png"
@@ -343,6 +339,10 @@ googleAnalytics = "UA-135356916-1"
     [[params.clients]]
       logo = "metis.png"
       link = "https://www.thisismetis.com/locations/chicago"
+
+    [[params.clients]]
+      logo = "roosevelt.png"
+      link = "https://www.roosevelt.edu/"
   
   [params.diversity]
     enable = true
