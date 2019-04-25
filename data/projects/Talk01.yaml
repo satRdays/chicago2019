@@ -1,4 +1,4 @@
-modalID: 1
+modalID: 2
 title: Aaron Hawn
 subtitle: Research Analyst at North Central College
 date: 1970-01-01
@@ -9,5 +9,5 @@ preview: Aaron_Hawn.jpg
 client: Research Analyst at North Central College
 clientLink: https://twitter.com/Aaron_Hawn
 category: Speaker
-description: Aaron is a research analyst currently working in Naperville at North Central College.  He previously worked with Mr. David Thomas at Concordia University where together they worked on a C# application to analyze and present Assessment data.  More recently they re-wrote this application as a Shiny App. 
+description: "Aaron is a research analyst currently working in Naperville at North Central College.  He previously worked with Mr. David Thomas at Concordia University where together they worked on a C# application to analyze and present Assessment data.  More recently they re-wrote this application as a Shiny App."
 talk: true
