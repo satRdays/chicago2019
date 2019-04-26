@@ -246,7 +246,7 @@ googleAnalytics = "UA-135356916-1"
     # Possibility to center items
     #center = true
     title = "Team"
-    subtitle = "Who are your organizers?"
+    subtitle = "Who are your organizers and volunteers?"
     bg = false
     description = ""
     speakers = "Keynote Speakers"
@@ -294,6 +294,18 @@ googleAnalytics = "UA-135356916-1"
         ["fa-github", "https://github.com/EmilyRiederer"],
         ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"]
       ]
+
+    [[params.team.members]]
+      img = "katherine-simeon.jpg"
+      name = "Katherine Simeon"
+
+    [[params.team.members]]
+      img = "scarlett-winters.jpg"
+      name = "Scarlett Winters"
+
+    [[params.team.members]]
+      img = "sydney-purdue.jpg"
+      name = "Sydney Purdue"
 
   # Client section
   [params.clients_list]
